@@ -20,7 +20,7 @@ const InputForm = props => {
 
     return (
         <div className='form-container'>
-            <h2>Add bear</h2>
+            <h2>Add Cat</h2>
             <table>
                 <tbody>
                     <tr>
